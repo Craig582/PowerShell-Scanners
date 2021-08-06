@@ -19,7 +19,7 @@
         <SourceScannerId value="90" />
       </Scanner>
     </Scanners>
-    <Description>REPLACE ME with a brief description.</Description>
+    <Description>Returns BIOS mode (UEFI/Legacy) and the Secure Boot status.</Description>
     <ScanProfileId value="33" />
     <Name>PS - SecureBoot</Name>
     <ScheduleTriggerSet name="ScheduleTriggers">
