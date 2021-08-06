@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AdminArsenal.Export Code="PDQInventory" Name="PDQ Inventory" Version="19.3.30.0" MinimumVersion="19.0">
+  <ScanProfile>
+    <Collections type="list" />
+    <Scanners type="list">
+      <Scanner>
+        <ModifiedDate>2021-08-06T10:43:51.9358354+01:00</ModifiedDate>
+        <Name>SecureBoot</Name>
+        <UID>884ae308e0de4037a97cce76661c795c</UID>
+        <Script>
+        </Script>
+        <FileName>C:\PowerShell-Scanners\PowerShell Scanners\SecureBoot\SecureBoot.ps1</FileName>
+        <Parameters>
+        </Parameters>
+        <AdditionalFiles>
+        </AdditionalFiles>
+        <RowLimit value="100" />
+        <TypeName>PowerShell</TypeName>
+        <SourceScannerId value="90" />
+      </Scanner>
+    </Scanners>
+    <Description>REPLACE ME with a brief description.</Description>
+    <ScanProfileId value="33" />
+    <Name>PS - SecureBoot</Name>
+    <ScheduleTriggerSet name="ScheduleTriggers">
+      <Triggers type="list" />
+    </ScheduleTriggerSet>
+  </ScanProfile>
+</AdminArsenal.Export>
